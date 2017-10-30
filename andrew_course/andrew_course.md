@@ -17,6 +17,8 @@ This is a note to record some key points in course "machine learning" of Andrew.
 
 It is strongly recommend to follow the whole couse and finish the assignment and course project. 
 
+---
+
 <h1 id="01"> 01. introduction </h1>
 
 
@@ -62,6 +64,9 @@ It is strongly recommend to follow the whole couse and finish the assignment and
 
 ![Supervised learning](image/01_supervised.png "Supervised Learning")
 ![Unsupervised learning](image/01_unsupervised.png "Supervised Learning")
+
+
+--- 
 
 
 <h1 id="02"> 02. linear regression </h1>
@@ -140,6 +145,8 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 ![](image/03_multiple_variable_gd_vs_normal_equaltion.png)
 
 
+--- 
+
 <h1 id="03"> 03.logistic regression </h1>
 
 ## Abstract
@@ -201,6 +208,7 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 ![](image/04_lr_multiple_class.png)
 
 
+--- 
 
 <h1 id="04"> 04. regularization </h1>
 
@@ -233,6 +241,8 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 ![](image/05_regularization_parameter.png)
 ![](image/05_regularization.png)
 
+
+--- 
 
 <h1 id="05"> 05. neural network </h1>
 
@@ -322,6 +332,7 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 ![](image/07_implement_note_1.png)
 
 
+--- 
 
 <h1 id="06"> 06. some advise for applying machine learning</h1>
 
@@ -411,6 +422,8 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 ![](image/09_more_data_3.png)
 
 
+--- 
+
 <h1 id="07"> 07. SVM </h1>
 
 # Support Vector Machine
@@ -472,7 +485,7 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 ![](image/10_use_svm_3.png)
 ![](image/10_use_svm_4.png)
 
-
+--- 
 
 
 <h1 id="08"> 08. clustering </h1>
@@ -497,7 +510,7 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 
 ![](image/11_choosing_k_2.png)
 
-
+--- 
 
 <h1 id="09"> 09. dimensionality reduction </h1>
 
@@ -552,7 +565,7 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 
 ![](image/12_advice_5.png)
 
-
+--- 
 
 <h1 id="10"> 10. anomaly detection </h1>
 
@@ -638,7 +651,7 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 ![](image/13_multivariate_guassian_distribution_7.png)
 ![](image/13_multivariate_guassian_distribution_8.png)
 
-
+--- 
 
 <h1 id="11"> 11. recommender systems </h1>
 
@@ -698,7 +711,7 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 ![](image/14_implementation_detial_1.png)
 ![](image/14_implementation_detial_2.png)
 
-
+--- 
 
 <h1 id="12"> 12. large scale machine learning </h1>
 
@@ -759,7 +772,7 @@ Gradient Descent is a method to update parameter, along the gradient is the incr
 
 
 
-
+--- 
 
 <h1 id="13"> 13. application photo OCR </h1>
 
