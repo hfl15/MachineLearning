@@ -13,7 +13,7 @@
 - [12. large scale machine learning](#12)
 - [13. application photo OCR](#13)
 
-This is a note to record some key points in course "machine learning" of Andrew. I think it is a good introductory course in machine learning, which not only talking about the basic theory of pupular machine learning model also introduce some hot application filed like recommender system and photo OCR.  
+This is a note to record some key points in course "machine learning" of Andrew. I think it is a good introductory course in machine learning, which not only talking about the basic theory of pupular machine learning model also introduce some hot application like recommender system and photo OCR.  
 
 It is strongly recommend to follow the whole couse and finish the assignment and course project. 
 
