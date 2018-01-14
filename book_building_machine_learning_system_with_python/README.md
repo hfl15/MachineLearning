@@ -185,18 +185,18 @@
 > - 博客
 >     - 机器学习理论：http://hunch.net/
 >           - John Langford 的博客（他是 Vowpal Wabbit ---- http://hunch.net/~vw/ --- 背后的主导者）。速度：每月一帖。 
->       - 文本与数据挖掘实用方法，http://textanddatamining.blogspot.de 
->       - Edwin Chen 的博客：http://blog.echen.me 
+>     - 文本与数据挖掘实用方法，http://textanddatamining.blogspot.de 
+>     - Edwin Chen 的博客：http://blog.echen.me 
 >           - 一帖/月，更实用的话题
->       - 机器学习，http://www.machinedlearnings.com 
+>     - 机器学习，http://www.machinedlearnings.com 
 >           - 一帖/月，更实用的话题，通常围绕大数据学习
->       - FlowingData, http://flowingdata.com
+>     - FlowingData, http://flowingdata.com
 >           - 一帖/天，主要解决一些统计学问题 
->       - Normal deviate，https://normaldeviate.wordpress.com/
+>     - Normal deviate，https://normaldeviate.wordpress.com/
 >           - 帖/月，对实际问题的理论方面进行讨论。
->       - 简单统计，http://simplystatistics.org  
+>     - 简单统计，http://simplystatistics.org  
 >           - 帖/月，专注于统计学和大数据
->       - 统计学建模，因果推理和社会科学，http://andrewgelman.com 
+>     - 统计学建模，因果推理和社会科学，http://andrewgelman.com 
 >           - 帖/天，作者用统计学原理指出流行媒体的缺点时很有趣
 >   - 数据资源：
 >       - UCI machine learning repository
